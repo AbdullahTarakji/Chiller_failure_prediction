@@ -1,0 +1,9 @@
+label,fault_name
+1,Normal
+2,Condenser fouling
+3,Reduced cond. water flow
+4,Reduced evap. water flow
+5,Refrigerant leak
+6,Refrigerant overcharge
+7,Excess oil
+8,Non-condensables
